@@ -1,0 +1,54 @@
+# секреты
+.env
+
+# данные, которые создаются автоматически
+data/
+*.json
+*.xlsx
+
+# виртуальное окружение
+venv/
+env/
+
+# служебные папки PyCharm
+.idea/
+
+# кэш Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# логи
+*.log
+
+# временные файлы macOS (если ты на Mac)
+.DS_Store
+# секреты
+.env
+
+# данные, которые создаются автоматически
+data/
+*.json
+*.xlsx
+
+# виртуальное окружение
+venv/
+env/
+
+# служебные папки PyCharm
+.idea/
+
+# кэш Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# логи
+*.log
+
+# временные файлы macOS (если ты на Mac)
+.DS_Store
+
+reports/
