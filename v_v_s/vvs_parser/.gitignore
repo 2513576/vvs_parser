@@ -52,3 +52,7 @@ __pycache__/
 .DS_Store
 
 reports/
+
+.env
+__pycache__/
+*.pyc
