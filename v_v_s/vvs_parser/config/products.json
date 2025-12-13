@@ -1,0 +1,46 @@
+{
+  "quke": [
+    {
+      "name": "iPhone 17 Pro Max 256GB Deep Blue",
+      "url": "https://quke.ru/shop/UID_144661_apple_iphone_17_pro_max_256gb_dual_esim_deep_blue_bez_rustore.html?abt=1"
+    },
+    {
+      "name": "iPhone 16 Plus 128GB Ultramarine",
+      "url": "https://quke.ru/shop/UID_139309_apple_iphone_16_plus_128gb_nanosim_+_esim_ultramarine.html?abt=1"
+    },
+    {
+      "name": "iPhone 16e 128GB Black",
+      "url": "https://quke.ru/shop/UID_143229_apple_iphone_16e_8_128gb_dual_esim_black.html?abt=1"
+    },
+    {
+      "name": "iPhone 17 Pro 512GB Silver",
+      "url": "https://quke.ru/shop/UID_144654_apple_iphone_17_pro_512gb_dual_esim_silver_bez_rustore.html?abt=1"
+    }
+  ],
+
+  "kns": [
+    {
+      "name": "Palit GeForce RTX 5060 Ti Infinity 3 OC 16GB",
+      "url": "https://www.kns.ru/product/videokarta-palit-nvidia-geforce-rtx-5060-ti-infinity-3-oc-16gb-ne7506ts19t1-gb2061s/"
+    },
+    {
+      "name": "Palit GeForce RTX 5060 Dual OC 8GB",
+      "url": "https://www.kns.ru/product/videokarta-palit-nvidia-geforce-rtx-5060-dual-oc-8gb-ne75060s19p1-gb2063d/"
+    },
+    {
+      "name": "MSI GeForce RTX 5070 Inspire 3X 12GB",
+      "url": "https://www.kns.ru/product/videokarta-msi-nvidia-geforce-rtx-5070-inspire-3x-12gb/"
+    }
+  ],
+
+  "vernik": [
+    {
+      "name": "MacBook Pro 14 2025 M5 32GB 1TB Space Black",
+      "url": "https://vernik.me/catalog/noutbuk-apple-macbook-pro-14-2025-m5-10-cpu-10-gpu-ram-32-gb-ssd-1-tb-chyernyy-kosmos-space-black/"
+    },
+    {
+      "name": "iPhone 17 256GB Mist Blue",
+      "url": "https://vernik.me/catalog/iphone-17-256gb-mist-blue/"
+    }
+  ]
+}
