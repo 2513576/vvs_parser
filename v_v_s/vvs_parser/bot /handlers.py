@@ -191,6 +191,7 @@ async def all_handler(update: Update, context: ContextTypes.DEFAULT_TYPE, is_cal
     if not all_items:
         await send("❌ Не удалось получить данные ни с одного сайта.")
         return
+        
 
     # Отправляем товары по одному
     for item in all_items:
