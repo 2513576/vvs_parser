@@ -66,3 +66,4 @@ def set_cached(url: str, data: dict):
     }
 
     save_cache(cache)
+
