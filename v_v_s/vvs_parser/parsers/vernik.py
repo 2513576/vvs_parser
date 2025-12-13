@@ -248,3 +248,4 @@ def parse_vernik(url: str, name: str) -> dict:
     """Глобальная функция-проходник, которую вызывает бот."""
     parser = VernikSimpleParser()
     return parser.parse_vernik(url, name)
+
