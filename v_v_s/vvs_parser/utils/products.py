@@ -17,3 +17,4 @@ def load_products():
     # Загружаем JSON
     with config_path.open("r", encoding="utf-8") as f:
         return json.load(f)
+
