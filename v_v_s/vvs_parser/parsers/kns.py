@@ -130,3 +130,4 @@ def parse_kns_product(url: str) -> Dict:
 # Парсим список товаров KNS
 def parse_kns_list(urls: List[str]) -> List[Dict]:
     return [parse_kns_product(url) for url in urls]
+
