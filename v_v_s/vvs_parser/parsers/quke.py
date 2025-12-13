@@ -145,3 +145,4 @@ async def parse_quke_list_async(urls: List[str]):
         item = await parse_quke_product_async(url)
         results.append(item)
     return results
+
